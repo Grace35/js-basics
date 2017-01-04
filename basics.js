@@ -36,4 +36,3 @@ var dog = {
 		console.log('bark')
 	}
 };
-var greet = 'Bark'
